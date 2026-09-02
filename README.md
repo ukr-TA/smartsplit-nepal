@@ -1,7 +1,4 @@
 # smartsplit-nepal
-A Nepal-focused group expense management and settlement platform with automated balance calculation and digital payment integration.
-# SmartSplit Nepal
-
 ## Personal Finance and Group Expense Settlement Platform
 
 SmartSplit Nepal is a web-based application designed to simplify shared expense management among friends, roommates, students, travelling groups, and small teams.
